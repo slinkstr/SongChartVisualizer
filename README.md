@@ -2,6 +2,9 @@
 SongChartVisualizer is a small mods that shows a configurable in-game graph that displays the NPS over time.
 It also has the ability to warn you when you're about to reach peak NPS. The mod can be configured in the Mod Settings.
 
+![Preview image 1](preview1.png)
+![Preview image 2](preview2.png)
+
 ## Installation
 This mod requires a few other mods in order to work.
 
